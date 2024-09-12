@@ -22,4 +22,4 @@ function getOrder(strings) {
 
 // Call the counter function with the actual user prompts and print
 const customerOrder = getOrder(stringArray);
-console.table(cuntomerOrder);
+console.table(customerOrder);
